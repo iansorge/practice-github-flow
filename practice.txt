@@ -1,2 +1,2 @@
-This is a practice run
+This file is being used to practice using github
 I am modifying this file to make a second commit
